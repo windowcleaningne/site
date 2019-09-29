@@ -24,14 +24,14 @@ If you are unsure of your reference number, please [contact us](contact-us). All
 <div class="field">
   <label class="label">Reference Number*</label>
   <div class="control">
-    <input id="referenceNo" class="input" type="text" required value="TEST1234">
+    <input id="referenceNo" class="input" type="text" required>
   </div>
 </div>
 
 <div class="field">
   <label class="label">Amount*</label>
   <div class="control">
-    <input id="amount" class="input" type="number" required value="1.00">
+    <input id="amount" class="input" type="number" required>
   </div>
 </div>
 
