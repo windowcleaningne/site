@@ -36,5 +36,3 @@ The price we say is the price you pay. No nasty surprises.
 Love the results or we’ll do it again – for free.
 
 We’re so confident that you’ll love the results that if you’re not, we’ll do them again or refund you.
-
-v0.2
