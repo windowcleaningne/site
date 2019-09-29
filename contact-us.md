@@ -68,9 +68,9 @@ hero_image: assets/logo.png
   <div class="control">
     <div class="select">
       <select id="bedrooms">
-        <option>1</option>
+        <option selected>1</option>
         <option>2</option>
-        <option selected>3</option>
+        <option>3</option>
         <option>4</option>
         <option>5+</option>
         <option>Other</option>
@@ -117,14 +117,6 @@ hero_image: assets/logo.png
     type_of_clean = document.getElementById('type_of_clean').value;
     bedrooms = document.getElementById('bedrooms').value;
     message = document.getElementById('message').value;
-    
-    /*
-    console.log("Name: " + name + " Number: " + phone_number + " Email: " + email);
-    console.log("AddressLine1: " + addrline1 + " AddressLine2: " + addrline2);
-    console.log("Postcode: " + postcode);
-    console.log("type of clean: " + type_of_clean + " bedrooms: " + bedrooms);
-    console.log("message: " + message);
-    */
 
     // Submit data to AWS API
     var xmlhttp = new XMLHttpRequest();
