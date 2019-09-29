@@ -1,0 +1,19 @@
+---
+style: is-small
+items:
+  - title: Free Quote
+    subtitle: Contact Us for a free quote.
+    icon: assets/envelope-regular.svg
+    call_to_action_name: Get a Free Quote
+    call_to_action_link: contact-us
+
+  - title: Phone
+    show_phone_number: true
+    icon: assets/phone-solid.svg
+    call_to_action_name: Call Us
+
+  - title: Customer Reviews
+    subtitle: See what our customers think.
+    icon: assets/comments-regular.svg
+    call_to_action_name: Customer Reviews
+    call_to_action_link: customer-reviews

@@ -1,0 +1,31 @@
+{% if page.callouts %}
+    {% assign callouts=site.data.[page.callouts] %}
+    <section class="hero {{ callouts.style }}">
+        <div class="hero-body">
+            <div class="container">
+                <div class="columns is-multiline is-centered">
+                    {% for callout in callouts.items %}
+                        <div class="column is-4 has-text-centered">
+                            <img src="{{ callout.icon }}" class="icon is-large"/>
+                            <p class="title is-5">{{ callout.title }}</p>
+                            <p class="subtitle is-5">{% if callout.show_phone_number %} {{ site.phone_number }}{% else %}{{ callout.subtitle }}{% endif %}</p>
+                            
+                            {% if callout.description %}
+                            <div class="content">
+                                <p>{{ callout.description | newline_to_br }}</p>
+                            </div>
+                            {% endif %}
+
+                            {% if callout.call_to_action_name %}
+                            <a href="{% if callout.show_phone_number %}tel:{{ site.phone_number }}{% else %}{{ callout.call_to_action_link | prepend: site.baseurl }}{% endif %}" class="button is-primary">
+                                {{ callout.call_to_action_name }}
+                            </a>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+{% endif %}
+

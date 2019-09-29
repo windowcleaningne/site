@@ -1,0 +1,18 @@
+---
+---
+$primary: #f8891b;
+$gap: 0px; // Gap from left hand side.
+// Import Main CSS file from theme
+@import "main";
+
+// Custom Styles
+.content {
+	max-width: 80%;
+	margin: auto;
+}
+
+li.gallery {
+	float: left;
+	margin: 2%;
+	list-style: none;
+}
