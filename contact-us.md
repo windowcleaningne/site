@@ -12,42 +12,42 @@ hero_image: assets/logo.png
 <div class="field">
   <label class="label">Name*</label>
   <div class="control">
-    <input id="name" class="input" type="text" required value="adam">
+    <input id="name" class="input" type="text" required>
   </div>
 </div>
 
 <div class="field">
   <label class="label">Phone Number*</label>
   <div class="control">
-    <input id="phone_number" class="input" type="number" value="079000">
+    <input id="phone_number" class="input" type="number" required>
   </div>
 </div>
 
 <div class="field">
   <label class="label">Email*</label>
   <div class="control">
-    <input id="email" class="input" type="email" required value="bob@mysite.com">
+    <input id="email" class="input" type="email" required>
   </div>
 </div>
 
 <div class="field">
   <label class="label">Address Line 1*</label>
   <div class="control">
-    <input id="addrline1" class="input" type="text" required value="keithley lodge">
+    <input id="addrline1" class="input" type="text" required>
   </div>
 </div>
 
 <div class="field">
   <label class="label">Address Line 2</label>
   <div class="control">
-    <input id="addrline2" class="input" type="text" value="the covers">
+    <input id="addrline2" class="input" type="text">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Postcode*</label>
   <div class="control">
-    <input id="postcode" class="input" type="text" value="ne12 9ja">
+    <input id="postcode" class="input" type="text" required>
   </div>
 </div>
 
