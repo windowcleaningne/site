@@ -9,7 +9,7 @@ hero_image: assets/logo.png
 
 <script src="https://js.stripe.com/v3/"></script>
   <script>
-    var stripe = Stripe('pk_test_zsqO0109pjL4EViIOfIi7UkR');
+    var stripe = Stripe('pk_live_baBiUjoxfXq7Ocq997wqlQ01');
 </script>
 
 # Pay My Bill
