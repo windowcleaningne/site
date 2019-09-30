@@ -7,6 +7,8 @@ hero_height: is-small
 hero_image: assets/logo.png
 ---
 
+# Payment Successful
+
 Congratulations, your payment was successful.
 
 If you have any questions. Please do not hesitate to [contact us](contact-us).
