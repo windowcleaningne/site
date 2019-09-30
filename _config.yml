@@ -20,14 +20,12 @@
 
 title: Window Cleaning NE
 email: quote@windowcleaning-ne.co.uk
-phone_number: 0791234567890
+phone_number: 07895645377
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Window Cleaning NE offer window cleaning services in Newcastle Upon Tyne.
 #baseurl: "/wcne" # the subpath of your site, e.g. /blog
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://windowcleaning-ne.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: bulma-clean-theme
