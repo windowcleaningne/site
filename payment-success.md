@@ -1,7 +1,7 @@
 ---
 title: Successful Payment
 layout: page
-permalink: /pay/successfulPayment
+permalink: /successfulPayment
 callouts: banner_callouts
 hero_height: is-small
 hero_image: assets/logo.png
