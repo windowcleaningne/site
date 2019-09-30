@@ -1,5 +1,5 @@
 ---
-title: Window Cleaning Newcastle upon Tyne
+title: Window Cleaning in Newcastle upon Tyne
 layout: page
 permalink: /
 callouts: banner_callouts
