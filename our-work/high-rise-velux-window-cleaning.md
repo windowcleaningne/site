@@ -7,6 +7,8 @@ hero_height: is-small
 hero_image: assets/logo.png
 ---
 
+# High Rise Window Cleaning
+
 It’s been 8 years since the management company cleaned these windows in a Newcastle high rise block.
 
 We got them looking fantastic again though!
