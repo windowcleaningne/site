@@ -1,7 +1,7 @@
 ---
-title: High Rise Window Cleaning
+title: High Rise & Velux Window Cleaning
 layout: page
-permalink: /high-rise-window-cleaning
+permalink: /high-rise-velux-window-cleaning
 callouts: banner_callouts
 hero_height: is-small
 hero_image: assets/logo.png
