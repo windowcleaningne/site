@@ -22,10 +22,5 @@ Did you know we also offer conservatory cleaning? Over time, the grime and dirt 
 
 ---
 
-## [Velux Window Cleaning](/velux-window-cleaning)
-Velux windows are fantastic. They give light in an otherwise dark attic room. But let’s be honest, they’re almost impossible to keep clean. When was the last time yours were cleaned? Have they ever been cleaned? No problem for us... [Read More](/velux-window-cleaning)
-
----
-
-## [High Rise Window Cleaning](/high-rise-window-cleaning)
-It’s been 8 years since the management company cleaned these windows in a Newcastle high rise block.   We got them looking fantastic again though... [Read More](/high-rise-window-cleaning)
+## [High Rise & Velux Window Cleaning](/high-rise-velux-window-cleaning)
+Our larger poles can reach heights of 40ft and therefore clean velux windows and high-rise windows that are usually difficult to reach... [Read More](/high-rise-velux-window-cleaning)
