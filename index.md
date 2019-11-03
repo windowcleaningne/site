@@ -11,11 +11,10 @@ hero_image: assets/logo.png
 
 Window Cleaning NE offer domestic and commercial window cleaning services in Newcastle upon Tyne.
 
-We serve [central Newcastle (NE1)](/central-newcastle-window-cleaning), [Jesmond and Heaton (NE2)](/jesmond-heaton-window-cleaning), [Gosforth (NE3)](/gosforth-kenton-fawdon-window-cleaning), and [Fenham (NE4)](/fenham-benwell-window-cleaning).
+We serve postcodes NE1 to NE13. Larger jobs outside of this area may be considered on an individual basis.
 
 ![window cleaners newcastle](assets/homepage2.jpg)
 ![window cleaning newcastle](assets/homepage1.jpg)
-
 
 Our top quality, hot pure water pole-fed window cleaning guarantees a perfect, streak free finish for both the windows and the window frames & the long reach pole system means no more impossible-to-reach areas & mobile unit means easy access where vehicles are not permitted.
 
