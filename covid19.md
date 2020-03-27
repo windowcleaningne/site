@@ -25,12 +25,13 @@ Window Cleaning North East will comply with and exceed the government guidelines
 
 # Our Request to You
 
-The safety of our staff and customer base is our primary concern. We would ask that, at this time:
+The safety of our staff and customer base is our primary concern. We ask that:
 
-1. If you are self-isolating, suspected of having, or have Coronavirus (COVID-19) please CONTACT US IMMEDIATELY and we will postpone your clean.
+1. If you are self-isolating, suspected of having, or have Coronavirus (COVID-19) please **[CONTACT US IMMEDIATELY](/contact-us)** and we will postpone your clean.
 1. Cash payments are avoided. Wherever possible, please [pay online](/pay) or contact us to arrange a suitable alternative method.
 1. If you wish to postpone your clean, please contact us and we will postpone, free of charge.
+1. Avoid close contact with our staff if possible.
 
+Above all, relax, stay safe and isolate as much as possible.
 
-
-
+This too, shall pass and we look forward to getting back to business as usual!
