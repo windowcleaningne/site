@@ -18,7 +18,7 @@ Window Cleaning North East will continue to operate and clean until it is no lon
 Window Cleaning North East will comply with and exceed the government guidelines in the following ways:
 
 1. Reduce the number of daily cleans to 50% capacity for as long as COVID-19 presents a threat.
-1. We will adhere to any current Government guidance on social distancing.
+1. Maintain social distancing between both our staff members & our customers.
 1. Personal Protective Equipment (PPE) will be worn - face coverings, gloves and boots.
 1. Prevent any cross contamination: Sterilise gloves and shoes with industrial-grade disinfectant **BEFORE and AFTER** every clean.
 1. Contact each household individually via text message the night before a scheduled clean.
@@ -31,6 +31,7 @@ The safety of our staff and customer base is our primary concern. We ask that:
 1. Cash payments are avoided. Wherever possible, please [pay online](/pay) or contact us to arrange an alternative method.
 1. If you wish to postpone your clean, please contact us and we will postpone, free of charge.
 1. Avoid close contact with our staff if possible.
+1. Discuss with your neighbours if they are particularly concerned, sensitive or vulnerable.
 
 Above all, relax, stay safe and isolate as much as possible.
 
