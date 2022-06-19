@@ -31,7 +31,7 @@ url: "https://windowcleaning-ne.co.uk" # the base hostname & protocol for your s
 google_analytics: UA-70753705-4
 
 # Build settings
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 #theme: minima
 plugins:
