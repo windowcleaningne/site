@@ -11,7 +11,7 @@ hero_image: assets/logo.png
 
 Window Cleaning NE offer domestic and commercial window cleaning services in Newcastle upon Tyne.
 
-We serve postcodes NE1 to NE13. Larger jobs outside of this area may be considered on an individual basis.
+Our Areas - Gosforth-Jesmond-
 
 ![window cleaners newcastle](assets/homepage2.jpg)
 ![window cleaning newcastle](assets/homepage1.jpg)
