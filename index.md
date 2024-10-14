@@ -12,7 +12,7 @@ hero_image: assets/logo.png
 Window Cleaning NE offer domestic and commercial window cleaning services in Newcastle upon Tyne.
 
 ## Our Areas 
-## Gosforth - Jesmond - Kenton-Kingston Park -  Quayside - South Gosforth  - Spital Tongues - High- Heaton - Heaton - Great Park - Four Lane Ends - Forest Hall - Fenham - Fawdon - Benton
+## Gosforth - Jesmond - Kenton-Kingston Park -  Quayside - South Gosforth  - Spital Tongues - High Heaton - Heaton - Great Park - Four Lane Ends - Forest Hall - Fenham - Fawdon - Benton
 
 ![window cleaners newcastle](assets/homepage007.jpg)
 
