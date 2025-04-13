@@ -15,6 +15,7 @@ Window Cleaning NE offer domestic and commercial window cleaning services in New
 ## Gosforth - Jesmond - Kenton-Kingston Park -  Quayside - South Gosforth  - Spital Tongues - High Heaton - Heaton - Great Park - Four Lane Ends - Forest Hall - Fenham - Fawdon - Benton
 
 ![window cleaners newcastle](assets/homepage001.jpg)
+![window cleaners newcastle](assets/jesmond-ne2.jpg)
 
 
 Our top quality, hot pure water pole-fed window cleaning guarantees a perfect, streak free finish for both the windows and the window frames & the long reach pole system means no more impossible-to-reach areas & mobile unit means easy access where vehicles are not permitted.
