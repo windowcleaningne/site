@@ -1,4 +1,4 @@
----
+DETACHED---
 title: Gallery
 layout: page
 permalink: /gallery
