@@ -7,12 +7,10 @@ hero_height: is-small
 hero_image: assets/logo.png
 ---
 
-## You use no soap? So how does it clean?
-
+## Why We Don’t Use Tap or Bottled Water for Window Cleaning
 Think of regular, standard tap water. It has a taste which differs from home to home. The taste is due to the dissolved minerals and ions in the water. For tap water, that’s a great thing! But it’s not so good for windows…
 
-Bottled water has even more dissolved minerals because that water (as they’re so fond of telling you on the bottle) has been collected “at source”. This basically means they’ve taken it directly from the ground, after it has dribbled it’s way through all that rock, containing (you guessed it) – lots of minerals – like calcium, magnesium and potassium.
-
+Regular tap water has a taste — and it’s different from house to house. That’s because it contains dissolved minerals and ions, which is perfectly fine for drinking. In fact, bottled water contains even more minerals, because it’s collected “at source” — straight from underground springs, after trickling through layers of mineral-rich rock like limestone. This adds things like calcium, magnesium, and potassium.
 <a href="assets/pure-water1.jpg" target="_blank">![Minerals in Bottled Water](assets/pure-water1.jpg)</a>
 
 So I suppose we could call these extra particles, impurities.
