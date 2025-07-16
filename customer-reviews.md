@@ -7,12 +7,12 @@ hero_height: is-small
 hero_image: assets/logo.png
 ---
 
-# Customer Reviews
+# Real Reviews from Real Customers
 
-All customer reviews here are genuine. All customers are invited to leave a review after every clean.
+Real Reviews from Real Customers
+All our reviews are 100% genuine. After every clean, we invite our customers to share their feedback.
 
-If you're a customer, we're always looking to improve - [let us know what you think](/contact-us)!
-
+Already a customer? We’d love to hear from you — your thoughts help us improve and keep delivering the best service possible!
 ---
 
 ## "Squeaky Clean Windows" from Marie
