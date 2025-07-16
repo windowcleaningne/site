@@ -1,4 +1,4 @@
-DETACHED---
+
 title: Gallery
 layout: page
 permalink: /gallery
@@ -10,8 +10,7 @@ hero_image: assets/logo.png
 # Gallery
 
 Here is a selection of our work...
-
----
+DETACHED---
 
 <ul class="gallery">
   {% for image in site.static_files %}
