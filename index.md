@@ -17,21 +17,13 @@ Window Cleaning NE offer domestic and commercial window cleaning services in New
 ![window cleaners newcastle](assets/homepage001.jpg)
 ![window cleaners newcastle](assets/gallery/IMG_0453_Original 2.jpg)
 
-Our top quality, hot pure water pole-fed window cleaning guarantees a perfect, streak free finish for both the windows and the window frames & the long reach pole system means no more impossible-to-reach areas & mobile unit means easy access where vehicles are not permitted.
-
+Our premium hot pure water system guarantees a perfect, streak-free finish — every time.
 ## Quality Equipment
-We use the latest in reverse osmosis, pure water pole-fed cleaning systems.
+Our premium hot pure water system delivers a powerful, residue-free clean — leaving your windows and frames perfectly clean and completely streak-free, every single time.
 
-Why? Well, it means no more impossible-to-reach places. No more streaky windows & no more ladders!
-
-Oh and we can even reach those Velux windows that you’ve never been able to clean!
-
-
-## Simple Pricing
-Simplicity and honesty. Good things, right? That’s why we offer a standard, simple pricing structure.
-
-The price we say is the price you pay. No nasty surprises.
-
+##Simple Pricing
+Simplicity and honesty — good things, right?
+That’s why we keep our pricing straightforward, with a clear, standard structure. No hidden fees, no surprises — just fair pricing for a quality service.
 ## Satisfaction Guaranteed
 Love the results or we’ll do it again – for free.
 
