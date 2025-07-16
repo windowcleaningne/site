@@ -13,8 +13,7 @@ Think of regular, standard tap water. It has a taste which differs from home to 
 Regular tap water has a taste — and it’s different from house to house. That’s because it contains dissolved minerals and ions, which is perfectly fine for drinking. In fact, bottled water contains even more minerals, because it’s collected “at source” — straight from underground springs, after trickling through layers of mineral-rich rock like limestone. This adds things like calcium, magnesium, and potassium.
 <a href="assets/pure-water1.jpg" target="_blank">![Minerals in Bottled Water](assets/pure-water1.jpg)</a>
 
-So I suppose we could call these extra particles, impurities.
-
+##Great for drinking — not so great for your windows!
 Purified water is simply water with all those impurities removed which makes it excellent for cleaning because the water will naturally attract the dirt and **drag it off the windows**.
 
 ### Why are my windows dirty after a Pure Water Clean?
