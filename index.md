@@ -21,10 +21,11 @@ Our premium hot pure water system guarantees a perfect, streak-free finish — e
 ## Quality Equipment
 Our premium hot pure water system delivers a powerful, residue-free clean — leaving your windows and frames perfectly clean and completely streak-free, every single time.
 
-##Simple Pricing
+## Simple Pricing
 Simplicity and honesty — good things, right?
 That’s why we keep our pricing straightforward, with a clear, standard structure. No hidden fees, no surprises — just fair pricing for a quality service.
-## Satisfaction Guaranteed
-Love the results or we’ll do it again – for free.
 
-We’re so confident that you’ll love the results that if you’re not, we’ll do them again or refund you.
+## Satisfaction Guaranteed
+
+We’re confident you’ll love the results.
+If you’re not 100% happy, we’ll return to re-clean for free — and if you’re still not satisfied, we’ll give you a full refund. Simple as that.
