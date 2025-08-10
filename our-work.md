@@ -21,5 +21,4 @@ Did you know we also offer conservatory cleaning? Over time, the grime and dirt 
 Our larger poles can reach heights of 40ft and therefore clean velux windows and high-rise windows that are usually difficult to reach... [Read More](/high-rise-velux-window-cleaning)
 
 
-## [Domestic House Cleaning](/Your Home)
-Have you got dirty windows, let us make them shine
+## [Domestic Homes](Have you got dirty windows, let us make them shine
